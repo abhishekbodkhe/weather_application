@@ -2,6 +2,10 @@
 
 This is a simple weather app built with Python and Flask. It retrieves weather information using the OpenWeatherMap API and displays it to the user.
 
+## UI screenshot
+
+<img src="https://github.com/abhishekbodkhe/weather_application/blob/main/Weather%20app%20UI.jpg?raw=true" alt="GitHub Logo" style="max-width: 100%;">
+
 ## Features
 
 - Allows users to input a city and get the current weather conditions.
@@ -41,6 +45,9 @@ python app.py
 
 2. Open your web browser and go to `http://127.0.0.1:5000/`.
 3. Enter a city name into the form and click "Get Weather" to see the current weather conditions for that city.
+
+
+
 
 ## Credits
 
